@@ -113,7 +113,7 @@
 
 ## 📎 GitHub
 
-- [github.com/yourusername/bioinfo-projects](https://github.com/yourusername/bioinfo-projects)  
+- [github.com/Ju-Hyung-create/bioinfo-projects](https://github.com/Ju-Hyung-create/Ju-Hyung-create.git)  
   (→ 프로젝트 코드 및 README 예시 포함)
 
 ---
